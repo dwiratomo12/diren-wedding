@@ -216,6 +216,10 @@ body {
     font-size: 1.2rem;
     text-align: center;
   }
+
+  .sticky-top {
+    overflow: hidden;
+  }
 }
 
 /* mobile phone */
